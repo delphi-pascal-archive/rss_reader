@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss">
+	<channel>
+		<title>Yahoo! News: World News</title>
+		<copyright>Copyright (c) 2005 Yahoo! Inc. All rights reserved.</copyright>
+		<link>http://news.yahoo.com/i/721</link>
+		<description>World News</description>
+		<language>en-us</language>
+		<lastBuildDate>Sat, 08 Oct 2005 18:55:10 GMT</lastBuildDate>
+		<ttl>5</ttl>
+		<image>
+			<title>Yahoo! News</title>
+			<width>142</width>
+			<height>18</height>
+			<link>http://news.yahoo.com/</link>
+			<url>http://us.i1.yimg.com/us.yimg.com/i/us/nws/th/main_142b.gif</url>
+		</image>
+		<item>
+			<title>Earthquake Kills 3,000 Across South Asia (AP)</title>
+			<link>http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_as/pakistan_quake</link>
+			<guid isPermaLink="false">ap/20051008/pakistan_quake</guid>
+			<pubDate>Sat, 08 Oct 2005 18:53:54 GMT</pubDate>
+			<description><![CDATA[<p><a href="http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_as/pakistan_quake"><img src="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051008/capt.msr10110081641.pakistan_south_asian_quake_msr101.jpg?x=130&amp;y=84&amp;sig=Hv31J.F7RV8e2kgeC5C3Ew--" align="left" height="84" width="130" alt="Local governor Sardar Yousaf views a damaged house following a severe earthquake in Batal, 135 kilometers from Islamabad, Pakistan, Saturday, Oct. 8, 2005.  A magnitude 7.6 earthquake rocked parts of India, Pakistan and Afghanistan, injuring at least a dozen people and damaging dozens of homes and shops. Part of a 10-story apartment building collapsed in Pakistan's capital, Islamabad, and dozens of people were feared trapped in the rubble. (AP Photo)" border="0" /></a>AP - A powerful 7.6-magnitude earthquake near the Pakistan-India border Saturday reduced villages to rubble, triggered landslides and flattened an apartment building. More than 3,000 people were killed in both nations, and a Pakistan army spokesman called the devastation &quot;a national tragedy.&quot;</p><br clear=all>]]></description>
+			<media:content url="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051008/capt.msr10110081641.pakistan_south_asian_quake_msr101.jpg?x=130&amp;y=84&amp;sig=Hv31J.F7RV8e2kgeC5C3Ew--" type="image/jpeg" height="84" width="130"/>
+			<media:text><![CDATA[<p><a href="http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_as/pakistan_quake"><img src="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051008/capt.msr10110081641.pakistan_south_asian_quake_msr101.jpg?x=130&amp;y=84&amp;sig=Hv31J.F7RV8e2kgeC5C3Ew--" align="left" height="84" width="130" alt="photo" title="Local governor Sardar Yousaf views a damaged house following a severe earthquake in Batal, 135 kilometers from Islamabad, Pakistan, Saturday, Oct. 8, 2005.  A magnitude 7.6 earthquake rocked parts of India, Pakistan and Afghanistan, injuring at least a dozen people and damaging dozens of homes and shops. Part of a 10-story apartment building collapsed in Pakistan's capital, Islamabad, and dozens of people were feared trapped in the rubble. (AP Photo)" border="0"/></a></p><br clear=all>]]></media:text>
+			<media:credit role="provider">(AP)</media:credit>
+		</item>
+		<item>
+			<title>Iraq Announces New Security Measures (AP)</title>
+			<link>http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_mi_ea/iraq</link>
+			<guid isPermaLink="false">ap/20051008/iraq</guid>
+			<pubDate>Sat, 08 Oct 2005 18:55:10 GMT</pubDate>
+			<description><![CDATA[<p><a href="http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_mi_ea/iraq"><img src="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051008/capt.bag10610081540.iraq_constitution_bag106.jpg?x=130&amp;y=89&amp;sig=APNqxVz_yi4yVbCW2xCq0g--" align="left" height="89" width="130" alt="An Iraqi man nails a banner promoting the country's new constitution to a building in  Basra, Iraq, Saturday, Oct. 8 2005. Politicians in Saddam Hussein's hometown, Tikrit,  on Saturday urged Sunni Arabs to vote 'no' in next week's constitutional referendum as iinsurgents killed two Iraqis and wounded 12 with roadside bombs and drive-by shootings.(AP Photo/Nabil al-Jurani)" border="0" /></a>AP - The Iraqi government on Saturday announced plans to clamp down with security measures including a curfew, weapons ban and a closure of the borders ahead of next week&#039;s constitutional referendum as Sunni Arabs geared up their campaign against the charter.</p><br clear=all>]]></description>
+			<media:content url="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051008/capt.bag10610081540.iraq_constitution_bag106.jpg?x=130&amp;y=89&amp;sig=APNqxVz_yi4yVbCW2xCq0g--" type="image/jpeg" height="89" width="130"/>
+			<media:text><![CDATA[<p><a href="http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_mi_ea/iraq"><img src="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051008/capt.bag10610081540.iraq_constitution_bag106.jpg?x=130&amp;y=89&amp;sig=APNqxVz_yi4yVbCW2xCq0g--" align="left" height="89" width="130" alt="photo" title="An Iraqi man nails a banner promoting the country's new constitution to a building in  Basra, Iraq, Saturday, Oct. 8 2005. Politicians in Saddam Hussein's hometown, Tikrit,  on Saturday urged Sunni Arabs to vote 'no' in next week's constitutional referendum as iinsurgents killed two Iraqis and wounded 12 with roadside bombs and drive-by shootings.(AP Photo/Nabil al-Jurani)" border="0"/></a></p><br clear=all>]]></media:text>
+			<media:credit role="provider">(AP)</media:credit>
+		</item>
+		<item>
+			<title>Land Mine Kills Soldier in Afghanistan (AP)</title>
+			<link>http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_as/afghan_soldier_killed</link>
+			<guid isPermaLink="false">ap/20051008/afghan_soldier_killed</guid>
+			<pubDate>Sat, 08 Oct 2005 17:05:35 GMT</pubDate>
+			<description><![CDATA[<p><a href="http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_as/afghan_soldier_killed"><img src="http://us.news3.yimg.com/us.i2.yimg.com/p/rids/20051003/i/r3951947926.jpg?x=130&amp;y=84&amp;sig=vTeFVngk2b82rwNiN4YlqA--" align="left" height="84" width="130" alt="A U.S soldier gives candy and cake to children on the outskirts of Jalalabad city in the Nangarhar province, east of Kabul, Afghanistan October 3, 2005. U.S ambassador to Afghanistan Ronald E. Neumann talked with villagers, elders and the governor of Nangarhar province during his one-day trip to the region.     REUTERS/Musadeq Sadeq/Pool" border="0" /></a>AP - A U.S. soldier was killed after stepping on a land mine while patrolling in southern Afghanistan, the military said Saturday, bringing to 200 the number of American troops slain here since the Taliban was ousted in 2001.</p><br clear=all>]]></description>
+			<media:content url="http://us.news3.yimg.com/us.i2.yimg.com/p/rids/20051003/i/r3951947926.jpg?x=130&amp;y=84&amp;sig=vTeFVngk2b82rwNiN4YlqA--" type="image/jpeg" height="84" width="130"/>
+			<media:text><![CDATA[<p><a href="http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_as/afghan_soldier_killed"><img src="http://us.news3.yimg.com/us.i2.yimg.com/p/rids/20051003/i/r3951947926.jpg?x=130&amp;y=84&amp;sig=vTeFVngk2b82rwNiN4YlqA--" align="left" height="84" width="130" alt="photo" title="A U.S soldier gives candy and cake to children on the outskirts of Jalalabad city in the Nangarhar province, east of Kabul, Afghanistan October 3, 2005. U.S ambassador to Afghanistan Ronald E. Neumann talked with villagers, elders and the governor of Nangarhar province during his one-day trip to the region.     REUTERS/Musadeq Sadeq/Pool" border="0"/></a></p><br clear=all>]]></media:text>
+			<media:credit role="provider">(AP)</media:credit>
+		</item>
+		<item>
+			<title>Poland Prepares for Presidential Election (AP)</title>
+			<link>http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_eu/poland_presidential_election</link>
+			<guid isPermaLink="false">ap/20051008/poland_presidential_election</guid>
+			<pubDate>Sat, 08 Oct 2005 16:16:15 GMT</pubDate>
+			<description><![CDATA[<p><a href="http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_eu/poland_presidential_election"><img src="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051007/capt.xcs15110071311.poland_election_xcs151.jpg?x=130&amp;y=83&amp;sig=KOUolmpFzg1uAW1W0AgOOw--" align="left" height="83" width="130" alt="Donald Tusk, left, from the Civic Platform party and Lech Kaczynski from the Law and Justice party, right, face-to-face prior to  a radio  presidential debate, in Warsaw, Poland, Friday, Oct. 7, 2005. Tusk and Kaczynski are the main contenders for the Oct. 9 presidential election in Poland. ( AP Photo/Czarek Sokolowski)" border="0" /></a>AP - Political parties erected stages for campaign celebrations and polling stations hung out Poland&#039;s red and white flag Saturday as the country prepared for a presidential election likely to exclude former communists from power.</p><br clear=all>]]></description>
+			<media:content url="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051007/capt.xcs15110071311.poland_election_xcs151.jpg?x=130&amp;y=83&amp;sig=KOUolmpFzg1uAW1W0AgOOw--" type="image/jpeg" height="83" width="130"/>
+			<media:text><![CDATA[<p><a href="http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_eu/poland_presidential_election"><img src="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051007/capt.xcs15110071311.poland_election_xcs151.jpg?x=130&amp;y=83&amp;sig=KOUolmpFzg1uAW1W0AgOOw--" align="left" height="83" width="130" alt="photo" title="Donald Tusk, left, from the Civic Platform party and Lech Kaczynski from the Law and Justice party, right, face-to-face prior to  a radio  presidential debate, in Warsaw, Poland, Friday, Oct. 7, 2005. Tusk and Kaczynski are the main contenders for the Oct. 9 presidential election in Poland. ( AP Photo/Czarek Sokolowski)" border="0"/></a></p><br clear=all>]]></media:text>
+			<media:credit role="provider">(AP)</media:credit>
+		</item>
+		<item>
+			<title>Soccer Star, Ex-Warlords Seek Liberia Vote (AP)</title>
+			<link>http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_af/liberia_votes</link>
+			<guid isPermaLink="false">ap/20051008/liberia_votes</guid>
+			<pubDate>Sat, 08 Oct 2005 17:32:53 GMT</pubDate>
+			<description><![CDATA[<p><a href="http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_af/liberia_votes"><img src="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051007/capt.svz10110071947.liberia_elections_svz101.jpg?x=130&amp;y=86&amp;sig=VRuG1EMrWGsYgzI7LUVb8w--" align="left" height="86" width="130" alt="Presidential candidate and former world star soccer player George Weah from the Congress for Democratic Change 'CDC' party sits in his car close to the small town of Kakata around 60 kilometers form the city of Monrovia, Liberia on Friday, Oct. 7, 2005. Liberia gears up for its first presidential elections since the end of its latest armed conflict two years ago, as voters hope the ballot can at last vanquish the bullet.(AP Photo/Schalk van Zuydam)" border="0" /></a>AP - The bullet holes are disappearing from Monrovia&#039;s walls, and U.N. peacekeepers have replaced the crack-addled teenage gunmen who put Liberia through nearly a decade and a half of hell. Now the nation is electing a president to seal the long-elusive peace.</p><br clear=all>]]></description>
+			<media:content url="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051007/capt.svz10110071947.liberia_elections_svz101.jpg?x=130&amp;y=86&amp;sig=VRuG1EMrWGsYgzI7LUVb8w--" type="image/jpeg" height="86" width="130"/>
+			<media:text><![CDATA[<p><a href="http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_af/liberia_votes"><img src="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051007/capt.svz10110071947.liberia_elections_svz101.jpg?x=130&amp;y=86&amp;sig=VRuG1EMrWGsYgzI7LUVb8w--" align="left" height="86" width="130" alt="photo" title="Presidential candidate and former world star soccer player George Weah from the Congress for Democratic Change 'CDC' party sits in his car close to the small town of Kakata around 60 kilometers form the city of Monrovia, Liberia on Friday, Oct. 7, 2005. Liberia gears up for its first presidential elections since the end of its latest armed conflict two years ago, as voters hope the ballot can at last vanquish the bullet.(AP Photo/Schalk van Zuydam)" border="0"/></a></p><br clear=all>]]></media:text>
+			<media:credit role="provider">(AP)</media:credit>
+		</item>
+		<item>
+			<title>Belarus end Scotland's World Cup dream (AFP)</title>
+			<link>http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/afp/20051008/wl_uk_afp/fblwc2006eurscoblr</link>
+			<guid isPermaLink="false">afp/20051008/fblwc2006eurscoblr</guid>
+			<pubDate>Sat, 08 Oct 2005 17:48:21 GMT</pubDate>
+			<description><![CDATA[<p><a href="http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/afp/20051008/wl_uk_afp/fblwc2006eurscoblr"><img src="http://us.news3.yimg.com/us.i2.yimg.com/p/afp/20051008/capt.sge.pfa42.081005174722.photo00.photo.default-384x264.jpg?x=130&amp;y=89&amp;sig=Boz_wNa0ti_6eJXzdrtcCg--" align="left" height="89" width="130" alt="Belarus' Vitaly Kutuzov celebrates after scoring during the World Cup 2006 qualifying football match against Scotland in Glasgow. Belarus won 1-0.(AFP/Ian Stewart)" border="0" /></a>AFP - Belarus all but ended Scotland&#039;s World Cup dreams at Hampden with an impressive 1-0 win.</p><br clear=all>]]></description>
+			<media:content url="http://us.news3.yimg.com/us.i2.yimg.com/p/afp/20051008/capt.sge.pfa42.081005174722.photo00.photo.default-384x264.jpg?x=130&amp;y=89&amp;sig=Boz_wNa0ti_6eJXzdrtcCg--" type="image/jpeg" height="89" width="130"/>
+			<media:text><![CDATA[<p><a href="http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/afp/20051008/wl_uk_afp/fblwc2006eurscoblr"><img src="http://us.news3.yimg.com/us.i2.yimg.com/p/afp/20051008/capt.sge.pfa42.081005174722.photo00.photo.default-384x264.jpg?x=130&amp;y=89&amp;sig=Boz_wNa0ti_6eJXzdrtcCg--" align="left" height="89" width="130" alt="photo" title="Belarus' Vitaly Kutuzov celebrates after scoring during the World Cup 2006 qualifying football match against Scotland in Glasgow. Belarus won 1-0.(AFP/Ian Stewart)" border="0"/></a></p><br clear=all>]]></media:text>
+			<media:credit role="provider">(AFP)</media:credit>
+		</item>
+		<item>
+			<title>Agreement Near for Gaza Border Security (AP)</title>
+			<link>http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_mi_ea/israel_palestinians</link>
+			<guid isPermaLink="false">ap/20051008/israel_palestinians</guid>
+			<pubDate>Sat, 08 Oct 2005 18:17:53 GMT</pubDate>
+			<description><![CDATA[<p><a href="http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_mi_ea/israel_palestinians"><img src="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051008/capt.jrl10210081448.mideast_israel_palestinians_jrl102.jpg?x=130&amp;y=87&amp;sig=9c73jfAEInOVzgQdzWIxTg--" align="left" height="87" width="130" alt="Media surround masked members of eight armed Palestinian factions during a joint press conference in Gaza City Saturday Oct. 8, 2005. The group, that includes al-Aqsa brigades, which is linked to the ruling Fatah movement, militias linked to Islamic Jihad and Hamas military wing released a statement  reaffirming  that 'as long as the Israeli occupation continues resistance will continue by all means, using all tools available'. (AP Photo/Hatem Moussa)" border="0" /></a>AP - Israel and the Palestinians were moving toward agreement on new security arrangements for Gaza&#039;s border with Egypt, officials from both sides said Saturday, a deal that could allow Palestinian residents of the coastal strip relatively free movement for the first time.</p><br clear=all>]]></description>
+			<media:content url="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051008/capt.jrl10210081448.mideast_israel_palestinians_jrl102.jpg?x=130&amp;y=87&amp;sig=9c73jfAEInOVzgQdzWIxTg--" type="image/jpeg" height="87" width="130"/>
+			<media:text><![CDATA[<p><a href="http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_mi_ea/israel_palestinians"><img src="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051008/capt.jrl10210081448.mideast_israel_palestinians_jrl102.jpg?x=130&amp;y=87&amp;sig=9c73jfAEInOVzgQdzWIxTg--" align="left" height="87" width="130" alt="photo" title="Media surround masked members of eight armed Palestinian factions during a joint press conference in Gaza City Saturday Oct. 8, 2005. The group, that includes al-Aqsa brigades, which is linked to the ruling Fatah movement, militias linked to Islamic Jihad and Hamas military wing released a statement  reaffirming  that 'as long as the Israeli occupation continues resistance will continue by all means, using all tools available'. (AP Photo/Hatem Moussa)" border="0"/></a></p><br clear=all>]]></media:text>
+			<media:credit role="provider">(AP)</media:credit>
+		</item>
+		<item>
+			<title>Death Toll Up in Central America Flooding (AP)</title>
+			<link>http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_la_am_ca/central_america_flooding</link>
+			<guid isPermaLink="false">ap/20051008/central_america_flooding</guid>
+			<pubDate>Sat, 08 Oct 2005 08:13:26 GMT</pubDate>
+			<description><![CDATA[<p><a href="http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_la_am_ca/central_america_flooding"><img src="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051008/capt.guax11210080042.guatemala_hurricane_stan_guax112.jpg?x=130&amp;y=80&amp;sig=.eM9r.M4SfCRIQC7Y40Ngg--" align="left" height="80" width="130" alt="Two mayan woman cry after a mudslide in Panabaj, Santiago Atitlan, 180 km south from Guatemala City , Friday, Oct 7,  2005. More than 70 persons dead after a mudslide Thursday night.(AP Photo/Moises Castillo)" border="0" /></a>AP - It sounded like a volcanic eruption, survivors said. But it was actually a thundering river of mud, rock and uprooted trees that poured down a volcano towering over this Mayan community in western Guatemala, engulfing everything in its path.</p><br clear=all>]]></description>
+			<media:content url="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051008/capt.guax11210080042.guatemala_hurricane_stan_guax112.jpg?x=130&amp;y=80&amp;sig=.eM9r.M4SfCRIQC7Y40Ngg--" type="image/jpeg" height="80" width="130"/>
+			<media:text><![CDATA[<p><a href="http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_la_am_ca/central_america_flooding"><img src="http://us.news3.yimg.com/us.i2.yimg.com/p/ap/20051008/capt.guax11210080042.guatemala_hurricane_stan_guax112.jpg?x=130&amp;y=80&amp;sig=.eM9r.M4SfCRIQC7Y40Ngg--" align="left" height="80" width="130" alt="photo" title="Two mayan woman cry after a mudslide in Panabaj, Santiago Atitlan, 180 km south from Guatemala City , Friday, Oct 7,  2005. More than 70 persons dead after a mudslide Thursday night.(AP Photo/Moises Castillo)" border="0"/></a></p><br clear=all>]]></media:text>
+			<media:credit role="provider">(AP)</media:credit>
+		</item>
+		<item>
+			<title>Hopefuls in Liberia Presidential Election (AP)</title>
+			<link>http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_af/liberia_candidates</link>
+			<guid isPermaLink="false">ap/20051008/liberia_candidates</guid>
+			<pubDate>Sat, 08 Oct 2005 17:34:24 GMT</pubDate>
+			<description>AP - Key candidates in Liberia's presidential elections scheduled for Tuesday:</description>
+		</item>
+		<item>
+			<title>Nations Affected by South Asia Earthquake (AP)</title>
+			<link>http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/ap/20051008/ap_on_re_as/quakes_countries</link>
+			<guid isPermaLink="false">ap/20051008/quakes_countries</guid>
+			<pubDate>Sat, 08 Oct 2005 18:52:58 GMT</pubDate>
+			<description>AP - A look at the nations affected by Saturday's powerful earthquake near the India-Pakistan border.</description>
+		</item>
+		<item>
+			<title>Tories narrow popularity gap as spending problems hurt Grits, poll indicates (Canadian Press)</title>
+			<link>http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/cpress/20051007/ca_pr_on_na/fed_political_poll</link>
+			<guid isPermaLink="false">cpress/20051007/fed_political_poll</guid>
+			<pubDate>Fri, 07 Oct 2005 19:05:00 GMT</pubDate>
+			<description>Canadian Press - OTTAWA (CP) - Recent spending scandals may have hurt the federal Liberals in the eyes of voters, a new poll indicates.</description>
+		</item>
+		<item>
+			<title>Roads reopen near Australia parliament after scare (Reuters)</title>
+			<link>http://us.rd.yahoo.com/dailynews/rss/world/*http://news.yahoo.com/s/nm/20051008/wl_nm/security_australia_dc</link>
+			<guid isPermaLink="false">nm/20051008/security_australia_dc</guid>
+			<pubDate>Sat, 08 Oct 2005 11:29:13 GMT</pubDate>
+			<description>Reuters - A bomb squad declared as safe a van 
+abandoned on a road leading from Australia's Parliament House 
+to Prime Minister John Howard's Canberra, police said on 
+Saturday.</description>
+		</item>
+	</channel>
+</rss>
+<!-- server p3.news.re2.yahoo.com -->
